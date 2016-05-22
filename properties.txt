@@ -1,0 +1,4 @@
+db_name = game_db.sqlite
+secret_key = 123456790
+gamelist_xml = /media/Storage/Roms/Mame_170/gamelist.xml
+samlple_gamelist = EmulationStation/samples/gamelist.xml
